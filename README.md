@@ -1,6 +1,6 @@
 # OSPSuite.SimModelSolverBase
 
-Every ODE-Solver used by `[OSPSuite.SimModel](https://github.com/Open-Systems-Pharmacology/OSPSuite.SimModel)` must inherit from the `OSPSuite.SimModelSolverBase` base class.
+Every ODE-Solver used by [OSPSuite.SimModel](https://github.com/Open-Systems-Pharmacology/OSPSuite.SimModel) must inherit from the `OSPSuite.SimModelSolverBase` base class.
 
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md).
