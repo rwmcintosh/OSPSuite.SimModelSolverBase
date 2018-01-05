@@ -3,7 +3,7 @@
 
 #include <string>
 
-#ifdef WIN32
+#ifdef _WINDOWS
 #define SIMMODELSOLVER_EXPORT __declspec(dllexport)
 #endif
 #ifdef linux
