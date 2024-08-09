@@ -9,6 +9,9 @@
 #ifdef linux
 #define SIMMODELSOLVER_EXPORT 
 #endif
+#ifdef __APPLE__
+#define SIMMODELSOLVER_EXPORT 
+#endif
 
 class SimModelSolverErrorData
 {	
